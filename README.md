@@ -36,4 +36,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### visit
     
     http://localhost:8081/ 
-    http://localhost:8081/ 
+    http://localhost:8081/sub/test

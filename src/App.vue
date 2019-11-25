@@ -3,8 +3,9 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
-      <a href="/sub/test">sub </a>
+
     </div>
+    <a href="/sub/test">sub 入口 </a>
     <router-view />
   </div>
 </template>
