@@ -4,7 +4,8 @@
 ```
 yarn install
 ```
-
+###
+   vue cli 多页面配置demo
 ### Compiles and hot-reloads for development
 ```
 yarn run serve
